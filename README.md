@@ -1,10 +1,10 @@
 # vscode-extensions
 
 # keybindings
--Visual Studio Keymap
+- Visual Studio Keymap
 
 # icons
--vscode-icons
+- vscode-icons
 
 # development
 - Code spell Checker
@@ -20,9 +20,9 @@
 - Ionide-Paket
 
 # azure
--Azure account
--Azure DevSpaces
--Azure Kubernetes service
+- Azure account
+- Azure DevSpaces
+- Azure Kubernetes service
 
 
 # docker & containers
